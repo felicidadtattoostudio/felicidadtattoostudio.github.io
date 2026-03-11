@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M250,280 Q270,200 320,180 Q370,200 390,280" stroke-width="1.5"/>
+    <path d="M270,270 Q285,210 320,195 Q355,210 370,270" stroke-width="1"/>
+    <path d="M280,190 Q260,150 265,120 Q285,140 280,190" stroke-width="1.2"/>
+    <path d="M360,190 Q380,150 375,120 Q355,140 360,190" stroke-width="1.2"/>
+    <path d="M300,180 Q310,150 320,140 Q330,150 340,180" stroke-width="1"/>
+    <circle cx="320" cy="130" r="15" stroke-width="1"/>
+    <circle cx="280" cy="110" r="10" stroke-width="1"/>
+    <circle cx="360" cy="110" r="10" stroke-width="1"/>
+    <path d="M250,280 Q320,320 390,280" stroke-width="1.2"/>
+    <line x1="280" y1="280" x2="275" y2="330" stroke-width="0.8"/>
+    <line x1="320" y1="290" x2="320" y2="340" stroke-width="0.8"/>
+    <line x1="360" y1="280" x2="365" y2="330" stroke-width="0.8"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <path d="M240,350 Q320,380 400,350"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">ANIMAL TOTEMS</text>
+</svg>

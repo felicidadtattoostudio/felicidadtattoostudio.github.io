@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M260,160 Q320,100 380,160 Q400,220 380,280 Q320,340 260,280 Q240,220 260,160Z" stroke-width="1.5"/>
+    <path d="M280,175 Q320,130 360,175 Q375,220 360,265 Q320,310 280,265 Q265,220 280,175Z" stroke-width="1"/>
+    <path d="M320,140 Q340,180 320,220 Q300,180 320,140" stroke-width="1.2"/>
+    <path d="M270,220 Q310,200 350,220 Q310,240 270,220" stroke-width="1.2"/>
+    <circle cx="320" cy="220" r="15" stroke-width="1"/>
+    <circle cx="320" cy="220" r="5" fill="#d4a574" opacity="0.4"/>
+    <path d="M260,160 L245,140 M380,160 L395,140 M260,280 L245,300 M380,280 L395,300" stroke-width="1"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">MANDALA</text>
+</svg>

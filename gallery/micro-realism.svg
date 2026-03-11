@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M260,300 Q260,180 320,140 Q380,180 380,300" stroke-width="1.5"/>
+    <path d="M280,290 Q280,200 320,170 Q360,200 360,290" stroke-width="1"/>
+    <path d="M290,200 L280,170 M290,200 L260,190" stroke-width="0.8"/>
+    <path d="M350,200 L360,170 M350,200 L380,190" stroke-width="0.8"/>
+    <path d="M300,230 Q320,220 340,230" stroke-width="0.8"/>
+    <path d="M295,260 Q320,250 345,260" stroke-width="0.8"/>
+    <circle cx="305" cy="190" r="5" stroke-width="1"/>
+    <circle cx="335" cy="190" r="5" stroke-width="1"/>
+    <path d="M260,300 Q320,330 380,300" stroke-width="1.2"/>
+    <line x1="320" y1="140" x2="320" y2="110" stroke-width="1.2"/>
+    <circle cx="320" cy="105" r="6" stroke-width="1"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <path d="M240,310 Q320,350 400,310"/>
+    <path d="M230,320 Q320,360 410,320"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">MICRO REALISM</text>
+</svg>

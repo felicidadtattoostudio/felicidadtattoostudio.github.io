@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g fill="none" opacity="0.9">
+    <circle cx="280" cy="200" r="40" stroke="#d4a574" stroke-width="1.5"/>
+    <circle cx="360" cy="200" r="40" stroke="#c47a5a" stroke-width="1.5"/>
+    <circle cx="320" cy="270" r="40" stroke="#a0785a" stroke-width="1.5"/>
+    <circle cx="280" cy="200" r="20" stroke="#d4a574" stroke-width="0.8" opacity="0.5"/>
+    <circle cx="360" cy="200" r="20" stroke="#c47a5a" stroke-width="0.8" opacity="0.5"/>
+    <circle cx="320" cy="270" r="20" stroke="#a0785a" stroke-width="0.8" opacity="0.5"/>
+    <circle cx="320" cy="220" r="10" fill="#d4a574" opacity="0.2"/>
+    <path d="M280,160 L280,140 M360,160 L360,140 M320,310 L320,330" stroke="#d4a574" stroke-width="1"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">COLOUR</text>
+</svg>

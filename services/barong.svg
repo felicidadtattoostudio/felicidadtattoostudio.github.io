@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <circle cx="320" cy="180" r="50" stroke-width="1.5"/>
+    <circle cx="320" cy="180" r="35" stroke-width="1"/>
+    <circle cx="320" cy="180" r="20" stroke-width="1"/>
+    <circle cx="320" cy="180" r="8" fill="#d4a574" opacity="0.3"/>
+    <path d="M280,140 Q270,120 280,100" stroke-width="1.2"/>
+    <path d="M360,140 Q370,120 360,100" stroke-width="1.2"/>
+    <path d="M270,180 Q250,180 240,170" stroke-width="1.2"/>
+    <path d="M370,180 Q390,180 400,170" stroke-width="1.2"/>
+    <path d="M290,220 Q280,250 260,260" stroke-width="1.2"/>
+    <path d="M350,220 Q360,250 380,260" stroke-width="1.2"/>
+    <path d="M260,260 Q250,290 260,320 Q280,350 320,360 Q360,350 380,320 Q390,290 380,260" stroke-width="1.5"/>
+    <path d="M290,300 Q320,320 350,300" stroke-width="1"/>
+    <path d="M300,270 L310,280 M340,270 L330,280" stroke-width="1"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">BARONG</text>
+</svg>

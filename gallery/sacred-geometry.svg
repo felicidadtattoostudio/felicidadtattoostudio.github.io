@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <circle cx="280" cy="200" r="40" stroke-width="1.5"/>
+    <circle cx="360" cy="200" r="40" stroke-width="1.5"/>
+    <circle cx="320" cy="270" r="40" stroke-width="1.5"/>
+    <circle cx="280" cy="200" r="20" stroke-width="0.8"/>
+    <circle cx="360" cy="200" r="20" stroke-width="0.8"/>
+    <circle cx="320" cy="270" r="20" stroke-width="0.8"/>
+    <circle cx="320" cy="220" r="8" fill="#d4a574" opacity="0.3"/>
+    <line x1="280" y1="160" x2="280" y2="130" stroke-width="1"/>
+    <line x1="360" y1="160" x2="360" y2="130" stroke-width="1"/>
+    <line x1="320" y1="310" x2="320" y2="340" stroke-width="1"/>
+    <path d="M245,220 L220,240" stroke-width="1"/>
+    <path d="M395,220 L420,240" stroke-width="1"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <circle cx="320" cy="230" r="90"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">SACRED GEOMETRY</text>
+</svg>

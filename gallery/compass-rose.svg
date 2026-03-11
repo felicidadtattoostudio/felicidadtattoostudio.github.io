@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M260,240 Q280,180 320,160 Q360,180 380,240 Q360,300 320,320 Q280,300 260,240Z" stroke-width="1.5"/>
+    <path d="M280,240 Q295,200 320,185 Q345,200 360,240 Q345,280 320,295 Q295,280 280,240Z" stroke-width="1"/>
+    <path d="M320,160 L320,120 M320,120 L310,130 M320,120 L330,130" stroke-width="1.2"/>
+    <path d="M380,240 L420,240 M420,240 L410,230 M420,240 L410,250" stroke-width="1.2"/>
+    <path d="M320,320 L320,360 M320,360 L310,350 M320,360 L330,350" stroke-width="1.2"/>
+    <path d="M260,240 L220,240 M220,240 L230,230 M220,240 L230,250" stroke-width="1.2"/>
+    <circle cx="320" cy="240" r="15" stroke-width="1.5"/>
+    <circle cx="320" cy="240" r="5" fill="#d4a574" opacity="0.4"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <circle cx="320" cy="240" r="100"/>
+    <circle cx="320" cy="240" r="120"/>
+  </g>
+  <text x="320" y="430" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">COMPASS ROSE</text>
+</svg>

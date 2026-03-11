@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g fill="none" opacity="0.9">
+    <text x="320" y="190" text-anchor="middle" font-family="serif" font-size="72" font-style="italic" fill="none" stroke="#d4a574" stroke-width="1.2" letter-spacing="2">Arte</text>
+    <text x="320" y="270" text-anchor="middle" font-family="serif" font-size="36" fill="none" stroke="#d4a574" stroke-width="0.8" letter-spacing="8">ETERNAL</text>
+    <line x1="200" y1="210" x2="440" y2="210" stroke="#d4a574" stroke-width="0.5" opacity="0.5"/>
+    <line x1="220" y1="290" x2="420" y2="290" stroke="#d4a574" stroke-width="0.5" opacity="0.5"/>
+    <path d="M200,210 Q190,200 195,190" stroke="#d4a574" stroke-width="0.8" opacity="0.6"/>
+    <path d="M440,210 Q450,200 445,190" stroke="#d4a574" stroke-width="0.8" opacity="0.6"/>
+    <path d="M240,310 Q280,330 320,320 Q360,330 400,310" stroke="#d4a574" stroke-width="0.8" opacity="0.4"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.15">
+    <line x1="160" y1="100" x2="160" y2="380" stroke-dasharray="4,4"/>
+    <line x1="480" y1="100" x2="480" y2="380" stroke-dasharray="4,4"/>
+    <line x1="160" y1="150" x2="480" y2="150" stroke-dasharray="4,4"/>
+    <line x1="160" y1="300" x2="480" y2="300" stroke-dasharray="4,4"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">SCRIPT &amp; LETTERING</text>
+</svg>

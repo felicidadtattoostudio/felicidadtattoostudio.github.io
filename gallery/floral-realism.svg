@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <circle cx="320" cy="200" r="20" stroke-width="1.5"/>
+    <circle cx="320" cy="200" r="8" fill="#d4a574" opacity="0.3"/>
+    <ellipse cx="320" cy="155" rx="18" ry="30" stroke-width="1.2"/>
+    <ellipse cx="320" cy="245" rx="18" ry="30" stroke-width="1.2"/>
+    <ellipse cx="275" cy="200" rx="30" ry="18" stroke-width="1.2"/>
+    <ellipse cx="365" cy="200" rx="30" ry="18" stroke-width="1.2"/>
+    <ellipse cx="288" cy="163" rx="25" ry="15" transform="rotate(-45 288 163)" stroke-width="1.2"/>
+    <ellipse cx="352" cy="163" rx="25" ry="15" transform="rotate(45 352 163)" stroke-width="1.2"/>
+    <ellipse cx="288" cy="237" rx="25" ry="15" transform="rotate(45 288 237)" stroke-width="1.2"/>
+    <ellipse cx="352" cy="237" rx="25" ry="15" transform="rotate(-45 352 237)" stroke-width="1.2"/>
+    <path d="M320,270 Q320,320 310,370" stroke-width="1.5"/>
+    <path d="M310,370 Q300,380 285,375 Q295,360 310,370" stroke-width="1.2"/>
+    <path d="M315,330 Q340,310 360,320 Q345,330 315,330" stroke-width="1.2"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <circle cx="320" cy="200" r="80"/>
+    <circle cx="320" cy="200" r="95"/>
+  </g>
+  <text x="320" y="430" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">FLORAL REALISM</text>
+</svg>

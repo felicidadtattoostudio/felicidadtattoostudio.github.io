@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M320,380 Q320,300 320,200" stroke-width="1.5"/>
+    <path d="M320,320 Q280,290 260,250" stroke-width="1.2"/>
+    <path d="M320,280 Q360,250 380,210" stroke-width="1.2"/>
+    <path d="M320,200 Q300,170 280,140 Q260,160 270,190 Q280,170 300,180 Q290,200 320,200" stroke-width="1.2"/>
+    <path d="M320,200 Q340,170 360,140 Q380,160 370,190 Q360,170 340,180 Q350,200 320,200" stroke-width="1.2"/>
+    <path d="M260,250 Q240,220 230,190 Q215,215 225,240 Q235,225 250,235 Q240,250 260,250" stroke-width="1.2"/>
+    <path d="M380,210 Q400,180 410,150 Q425,175 415,200 Q405,185 390,195 Q400,210 380,210" stroke-width="1.2"/>
+    <path d="M320,200 Q310,160 320,120 Q330,160 320,200" stroke-width="1"/>
+    <circle cx="320" cy="110" r="12" stroke-width="1.2"/>
+    <circle cx="310" cy="105" r="5" opacity="0.4" fill="#d4a574"/>
+    <circle cx="330" cy="105" r="5" opacity="0.4" fill="#d4a574"/>
+    <circle cx="320" cy="115" r="5" opacity="0.4" fill="#d4a574"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <path d="M320,380 Q280,370 240,380 Q280,360 320,380"/>
+    <path d="M320,380 Q360,370 400,380 Q360,360 320,380"/>
+  </g>
+  <text x="320" y="430" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">BOTANICAL SERIES</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M280,150 L280,330" stroke-width="1.5"/>
+    <path d="M360,150 L360,330" stroke-width="1.5"/>
+    <path d="M280,150 Q320,130 360,150" stroke-width="1.2"/>
+    <path d="M280,330 Q320,350 360,330" stroke-width="1.2"/>
+    <path d="M280,190 L310,190 L310,220 L280,220" stroke-width="1"/>
+    <path d="M360,190 L330,190 L330,220 L360,220" stroke-width="1"/>
+    <path d="M280,250 L310,250 L310,280 L280,280" stroke-width="1"/>
+    <path d="M360,250 L330,250 L330,280 L360,280" stroke-width="1"/>
+    <path d="M310,200 Q320,195 330,200 Q320,205 310,200" stroke-width="1"/>
+    <path d="M310,260 Q320,255 330,260 Q320,265 310,260" stroke-width="1"/>
+    <path d="M295,170 L295,180 M345,170 L345,180" stroke-width="0.8"/>
+    <path d="M295,300 L295,310 M345,300 L345,310" stroke-width="0.8"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <path d="M260,140 L260,340 M400,140 L400,340"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">POLYNESIAN</text>
+</svg>

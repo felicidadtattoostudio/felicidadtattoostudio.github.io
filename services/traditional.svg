@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#1a1a1a"/>
+  <g stroke="#d4a574" fill="none" opacity="0.9">
+    <path d="M270,300 Q250,220 280,160 Q300,130 320,120 Q340,130 360,160 Q390,220 370,300" stroke-width="1.5"/>
+    <path d="M270,300 Q320,330 370,300" stroke-width="1.2"/>
+    <path d="M290,180 Q260,150 270,120" stroke-width="1"/>
+    <path d="M350,180 Q380,150 370,120" stroke-width="1"/>
+    <path d="M300,200 Q320,190 340,200" stroke-width="1"/>
+    <path d="M295,230 Q320,220 345,230" stroke-width="1"/>
+    <path d="M290,260 Q320,250 350,260" stroke-width="1"/>
+    <circle cx="320" cy="160" r="12" stroke-width="1.2"/>
+    <circle cx="320" cy="160" r="5" fill="#d4a574" opacity="0.3"/>
+    <line x1="320" y1="120" x2="320" y2="100" stroke-width="1.2"/>
+  </g>
+  <g stroke="#d4a574" stroke-width="0.5" fill="none" opacity="0.2">
+    <path d="M255,310 Q320,345 385,310"/>
+  </g>
+  <text x="320" y="420" text-anchor="middle" font-family="serif" font-size="11" letter-spacing="4" fill="#d4a574" opacity="0.5">TRADITIONAL</text>
+</svg>
